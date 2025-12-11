@@ -2,3 +2,4 @@
 
 ## Fonctionnalités
 - Affichage de l'utilisation CPU
+- Affichage de l'utilisation RAM
